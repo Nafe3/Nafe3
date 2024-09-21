@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Nafe3/Nafe3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -44,5 +42,3 @@ design<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nafe3&icon=4&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
